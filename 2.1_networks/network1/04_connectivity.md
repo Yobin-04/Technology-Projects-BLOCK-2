@@ -6,9 +6,11 @@ images/ping-pc0.png
 ```
 
 ### 4.2 Describe the Results
-- Were all PCs able to ping each other?  
-- Which pings were successful?  
+- Were all PCs able to ping each other?
+- Yes all PCs able to ping each other.
+- Which pings were successful?
+- All pings were successful.
 - Which ones failed and why?
-
+- None failed.
 _Write your explanation here…_
 
